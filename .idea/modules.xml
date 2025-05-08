@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Challenges/Challenge-2/Challenge-2.iml" filepath="$PROJECT_DIR$/Challenges/Challenge-2/Challenge-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Challenges/Challenge-3/Challenge-3.iml" filepath="$PROJECT_DIR$/Challenges/Challenge-3/Challenge-3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Challenges/Challenges.iml" filepath="$PROJECT_DIR$/Challenges/Challenges.iml" />
       <module fileurl="file://$PROJECT_DIR$/DEVELOPMENT.iml" filepath="$PROJECT_DIR$/DEVELOPMENT.iml" />
       <module fileurl="file://$PROJECT_DIR$/Escape Character/Escape Character.iml" filepath="$PROJECT_DIR$/Escape Character/Escape Character.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operators/Operators.iml" filepath="$PROJECT_DIR$/Operators/Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Type Conversion and Casting/Type Conversion and Casting.iml" filepath="$PROJECT_DIR$/Type Conversion and Casting/Type Conversion and Casting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/User Input/User Input.iml" filepath="$PROJECT_DIR$/User Input/User Input.iml" />
     </modules>
   </component>
 </project>
