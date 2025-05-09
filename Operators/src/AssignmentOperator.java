@@ -1,5 +1,10 @@
-public class Main {
+public class AssignmentOperator {
     public static void main(String[] args) {
-        System.out.println ( "Hello world!" );
+        int myInt=9;
+        System.out.println ("myInt = " + myInt);
+        int newInt=myInt;
+        System.out.println ("newInt = " + newInt);
+
+        // 9= myInt; --> Provide Error
     }
 }
