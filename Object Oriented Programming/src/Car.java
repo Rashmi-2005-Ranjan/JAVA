@@ -55,6 +55,12 @@ public class Car {
         return currentFuelInLiters;
     }
 
+    // This method is deprecated and should not be used.
+//    @Override
+//    protected void finalize() throws Throwable {
+//        System.out.println ("I am In Finalize" );
+//    }
+
     @Override
     public String toString() {
         return "Car{" +
