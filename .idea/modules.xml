@@ -17,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/Challenges/Challenges-12-Class-Object/Challenges-12-Class-Object.iml" filepath="$PROJECT_DIR$/Challenges/Challenges-12-Class-Object/Challenges-12-Class-Object.iml" />
       <module fileurl="file://$PROJECT_DIR$/Challenges/Challenges-13/Challenges-13.iml" filepath="$PROJECT_DIR$/Challenges/Challenges-13/Challenges-13.iml" />
       <module fileurl="file://$PROJECT_DIR$/Challenges/Challenges-14/Challenges-14.iml" filepath="$PROJECT_DIR$/Challenges/Challenges-14/Challenges-14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Challenges/Challenges-15/Challenges-15.iml" filepath="$PROJECT_DIR$/Challenges/Challenges-15/Challenges-15.iml" />
       <module fileurl="file://$PROJECT_DIR$/Comments/Comments.iml" filepath="$PROJECT_DIR$/Comments/Comments.iml" />
       <module fileurl="file://$PROJECT_DIR$/Control Flow Statements/Control Flow Statements.iml" filepath="$PROJECT_DIR$/Control Flow Statements/Control Flow Statements.iml" />
       <module fileurl="file://$PROJECT_DIR$/Control Statements/Control Statements.iml" filepath="$PROJECT_DIR$/Control Statements/Control Statements.iml" />
@@ -31,6 +32,8 @@
       <module fileurl="file://$PROJECT_DIR$/Random Numbers and Math Class/Random Numbers and Math Class.iml" filepath="$PROJECT_DIR$/Random Numbers and Math Class/Random Numbers and Math Class.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recursion In Java/Recursion In Java.iml" filepath="$PROJECT_DIR$/Recursion In Java/Recursion In Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Stack/Stack.iml" filepath="$PROJECT_DIR$/Stack/Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String Class/String Class.iml" filepath="$PROJECT_DIR$/String Class/String Class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/To String Method/To String Method.iml" filepath="$PROJECT_DIR$/To String Method/To String Method.iml" />
       <module fileurl="file://$PROJECT_DIR$/Type Conversion and Casting/Type Conversion and Casting.iml" filepath="$PROJECT_DIR$/Type Conversion and Casting/Type Conversion and Casting.iml" />
       <module fileurl="file://$PROJECT_DIR$/User Input/User Input.iml" filepath="$PROJECT_DIR$/User Input/User Input.iml" />
     </modules>
