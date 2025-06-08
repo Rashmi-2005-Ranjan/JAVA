@@ -1,9 +1,15 @@
-package in.kgcoding.polymorphism.referenceandobject.child;
+package in.kgcoding.polymorphism.superkeyword.child;
 
-import in.kgcoding.polymorphism.referenceandobject.parent.Vehicle;
+
+import in.kgcoding.polymorphism.superkeyword.parent.Vehicle;
 
 public class Car extends Vehicle {
-    public int noOfDoors(){
-        return 5;
+    public Car(int noOfTires){
+        super(noOfTires);
+    }
+    @Override
+    public void start() {
+        super.getNoOfTires ();
+        System.out.println ("Car is starting");
     }
 }

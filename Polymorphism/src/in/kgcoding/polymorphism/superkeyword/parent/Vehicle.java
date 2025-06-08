@@ -1,7 +1,19 @@
-package in.kgcoding.polymorphism.referenceandobject.parent;
+package in.kgcoding.polymorphism.superkeyword.parent;
 
-public class Vehicle {
-    public void start() {
-        System.out.println("Vehicle is starting");
+public abstract class Vehicle {
+    private int noOfTires;
+
+    public Vehicle() {
+        this.noOfTires = 0;
     }
+
+    public Vehicle(int noOfTires) {
+        this.noOfTires = noOfTires;
+    }
+
+    public int getNoOfTires() {
+        return noOfTires;
+    }
+
+    public abstract void start();
 }
