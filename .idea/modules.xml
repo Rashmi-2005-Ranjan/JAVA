@@ -15,7 +15,10 @@
       <module fileurl="file://$PROJECT_DIR$/Challenges/Challenges-16/Challenges-16.iml" filepath="$PROJECT_DIR$/Challenges/Challenges-16/Challenges-16.iml" />
       <module fileurl="file://$PROJECT_DIR$/Challenges/Challenges-17/Challenges-17.iml" filepath="$PROJECT_DIR$/Challenges/Challenges-17/Challenges-17.iml" />
       <module fileurl="file://$PROJECT_DIR$/Challenges/Challenges-18/Challenges-18.iml" filepath="$PROJECT_DIR$/Challenges/Challenges-18/Challenges-18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Challenges/Challenges-19/Challenges-19.iml" filepath="$PROJECT_DIR$/Challenges/Challenges-19/Challenges-19.iml" />
       <module fileurl="file://$PROJECT_DIR$/Challenges/Challenges-2/Challenges-2.iml" filepath="$PROJECT_DIR$/Challenges/Challenges-2/Challenges-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Challenges/Challenges-20/Challenges-20.iml" filepath="$PROJECT_DIR$/Challenges/Challenges-20/Challenges-20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Challenges/Challenges-21/Challenges-21.iml" filepath="$PROJECT_DIR$/Challenges/Challenges-21/Challenges-21.iml" />
       <module fileurl="file://$PROJECT_DIR$/Challenges/Challenges-3/Challenges-3.iml" filepath="$PROJECT_DIR$/Challenges/Challenges-3/Challenges-3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Challenges/Challenges-4/Challenges-4.iml" filepath="$PROJECT_DIR$/Challenges/Challenges-4/Challenges-4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Challenges/Challenges-5/Challenges-5.iml" filepath="$PROJECT_DIR$/Challenges/Challenges-5/Challenges-5.iml" />
@@ -23,12 +26,14 @@
       <module fileurl="file://$PROJECT_DIR$/Challenges/Challenges-7/Challenges-7.iml" filepath="$PROJECT_DIR$/Challenges/Challenges-7/Challenges-7.iml" />
       <module fileurl="file://$PROJECT_DIR$/Challenges/Challenges-8/Challenges-8.iml" filepath="$PROJECT_DIR$/Challenges/Challenges-8/Challenges-8.iml" />
       <module fileurl="file://$PROJECT_DIR$/Challenges/Challenges-9/Challenges-9.iml" filepath="$PROJECT_DIR$/Challenges/Challenges-9/Challenges-9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections Library/Collections Library.iml" filepath="$PROJECT_DIR$/Collections Library/Collections Library.iml" />
       <module fileurl="file://$PROJECT_DIR$/Comments/Comments.iml" filepath="$PROJECT_DIR$/Comments/Comments.iml" />
       <module fileurl="file://$PROJECT_DIR$/Control Flow Statements/Control Flow Statements.iml" filepath="$PROJECT_DIR$/Control Flow Statements/Control Flow Statements.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Control Statements/Control Statements.iml" filepath="$PROJECT_DIR$/Control Statements/Control Statements.iml" />
       <module fileurl="file://$PROJECT_DIR$/DEVELOPMENT.iml" filepath="$PROJECT_DIR$/DEVELOPMENT.iml" />
       <module fileurl="file://$PROJECT_DIR$/Equals and Hashcode/Equals and Hashcode.iml" filepath="$PROJECT_DIR$/Equals and Hashcode/Equals and Hashcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/Escape Character/Escape Character.iml" filepath="$PROJECT_DIR$/Escape Character/Escape Character.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception Handling/Exception Handling.iml" filepath="$PROJECT_DIR$/Exception Handling/Exception Handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/File Handling/File Handling.iml" filepath="$PROJECT_DIR$/File Handling/File Handling.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/Interfaces In Java/Interfaces In Java.iml" filepath="$PROJECT_DIR$/Interfaces In Java/Interfaces In Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
@@ -44,6 +49,7 @@
       <module fileurl="file://$PROJECT_DIR$/Recursion In Java/Recursion In Java.iml" filepath="$PROJECT_DIR$/Recursion In Java/Recursion In Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Stack/Stack.iml" filepath="$PROJECT_DIR$/Stack/Stack.iml" />
       <module fileurl="file://$PROJECT_DIR$/String Class/String Class.iml" filepath="$PROJECT_DIR$/String Class/String Class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Switch and Ternary Operator/Switch and Ternary Operator.iml" filepath="$PROJECT_DIR$/Switch and Ternary Operator/Switch and Ternary Operator.iml" />
       <module fileurl="file://$PROJECT_DIR$/To String Method/To String Method.iml" filepath="$PROJECT_DIR$/To String Method/To String Method.iml" />
       <module fileurl="file://$PROJECT_DIR$/Type Conversion and Casting/Type Conversion and Casting.iml" filepath="$PROJECT_DIR$/Type Conversion and Casting/Type Conversion and Casting.iml" />
       <module fileurl="file://$PROJECT_DIR$/User Input/User Input.iml" filepath="$PROJECT_DIR$/User Input/User Input.iml" />
