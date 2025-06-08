@@ -10,7 +10,7 @@ public class TestTransportation {
         Vehicle v = new Vehicle ( );
         Plane p = new Plane ( );
         /**
-        casTest ( v );
+        casTest ( PassByValue );
         casTest ( p );
         */
         casTest ( c );
