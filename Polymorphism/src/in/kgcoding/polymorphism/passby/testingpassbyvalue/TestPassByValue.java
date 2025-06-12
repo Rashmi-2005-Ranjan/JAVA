@@ -1,4 +1,4 @@
-package in.kgcoding.polymorphism.passby.testing;
+package in.kgcoding.polymorphism.passby.testingpassbyvalue;
 
 public class TestPassByValue {
     public static void main(String[] args) {

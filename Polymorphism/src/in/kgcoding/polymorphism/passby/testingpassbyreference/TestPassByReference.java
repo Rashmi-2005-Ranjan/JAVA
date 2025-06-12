@@ -1,4 +1,4 @@
-package in.kgcoding.polymorphism.passby.value;
+package in.kgcoding.polymorphism.passby.testingpassbyreference;
 
 public class TestPassByReference {
     public static void main(String[] args) {
@@ -8,7 +8,7 @@ public class TestPassByReference {
         System.out.printf ( "Point after move: %s%n", first );
     }
 
-    public static void move(Point p){
+    public static void move( Point p){
         p.x++;
         p.y++;
         System.out.printf ( "Point moved to (%d, %d)%n", p.x, p.y );
