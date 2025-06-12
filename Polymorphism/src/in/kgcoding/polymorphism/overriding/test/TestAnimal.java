@@ -5,7 +5,7 @@ import in.kgcoding.polymorphism.overriding.child.Dog;
 import in.kgcoding.polymorphism.overriding.child.Duck;
 import in.kgcoding.polymorphism.overriding.parent.Animal;
 
-public class Test {
+public class TestAnimal {
     public static void main(String[] args) {
         Cat cat = new Cat();
         Dog dog = new Dog();
