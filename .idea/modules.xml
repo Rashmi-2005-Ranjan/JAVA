@@ -21,6 +21,11 @@
       <module fileurl="file://$PROJECT_DIR$/Challenges/Challenges-21/Challenges-21.iml" filepath="$PROJECT_DIR$/Challenges/Challenges-21/Challenges-21.iml" />
       <module fileurl="file://$PROJECT_DIR$/Challenges/Challenges-22/Challenges-22.iml" filepath="$PROJECT_DIR$/Challenges/Challenges-22/Challenges-22.iml" />
       <module fileurl="file://$PROJECT_DIR$/Challenges/Challenges-23/Challenges-23.iml" filepath="$PROJECT_DIR$/Challenges/Challenges-23/Challenges-23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Challenges/Challenges-24/Challenges-24.iml" filepath="$PROJECT_DIR$/Challenges/Challenges-24/Challenges-24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Challenges/Challenges-25/Challenges-25.iml" filepath="$PROJECT_DIR$/Challenges/Challenges-25/Challenges-25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Challenges/Challenges-26/Challenges-26.iml" filepath="$PROJECT_DIR$/Challenges/Challenges-26/Challenges-26.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Challenges/Challenges-27/Challenges-27.iml" filepath="$PROJECT_DIR$/Challenges/Challenges-27/Challenges-27.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Challenges/Challenges-28/Challenges-28.iml" filepath="$PROJECT_DIR$/Challenges/Challenges-28/Challenges-28.iml" />
       <module fileurl="file://$PROJECT_DIR$/Challenges/Challenges-3/Challenges-3.iml" filepath="$PROJECT_DIR$/Challenges/Challenges-3/Challenges-3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Challenges/Challenges-4/Challenges-4.iml" filepath="$PROJECT_DIR$/Challenges/Challenges-4/Challenges-4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Challenges/Challenges-5/Challenges-5.iml" filepath="$PROJECT_DIR$/Challenges/Challenges-5/Challenges-5.iml" />
@@ -35,17 +40,21 @@
       <module fileurl="file://$PROJECT_DIR$/Equals and Hashcode/Equals and Hashcode.iml" filepath="$PROJECT_DIR$/Equals and Hashcode/Equals and Hashcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/Escape Character/Escape Character.iml" filepath="$PROJECT_DIR$/Escape Character/Escape Character.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exception Handling/Exception Handling.iml" filepath="$PROJECT_DIR$/Exception Handling/Exception Handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Executor Service/Executor Service.iml" filepath="$PROJECT_DIR$/Executor Service/Executor Service.iml" />
       <module fileurl="file://$PROJECT_DIR$/File Handling/File Handling.iml" filepath="$PROJECT_DIR$/File Handling/File Handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Functional Programming/Functional Programming.iml" filepath="$PROJECT_DIR$/Functional Programming/Functional Programming.iml" />
       <module fileurl="file://$PROJECT_DIR$/Generics and Diamond Operator/Generics and Diamond Operator.iml" filepath="$PROJECT_DIR$/Generics and Diamond Operator/Generics and Diamond Operator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/Interfaces In Java/Interfaces In Java.iml" filepath="$PROJECT_DIR$/Interfaces In Java/Interfaces In Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loops/Loops.iml" filepath="$PROJECT_DIR$/Loops/Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Method Reference/Method Reference.iml" filepath="$PROJECT_DIR$/Method Reference/Method Reference.iml" />
       <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
       <module fileurl="file://$PROJECT_DIR$/Multi Threading In Java/Multi Threading In Java.iml" filepath="$PROJECT_DIR$/Multi Threading In Java/Multi Threading In Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Nested and Inner Classes/Nested and Inner Classes.iml" filepath="$PROJECT_DIR$/Nested and Inner Classes/Nested and Inner Classes.iml" />
       <module fileurl="file://$PROJECT_DIR$/Object Oriented Programming/Object Oriented Programming.iml" filepath="$PROJECT_DIR$/Object Oriented Programming/Object Oriented Programming.iml" />
       <module fileurl="file://$PROJECT_DIR$/Operators/Operators.iml" filepath="$PROJECT_DIR$/Operators/Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Optional Class/Optional Class.iml" filepath="$PROJECT_DIR$/Optional Class/Optional Class.iml" />
       <module fileurl="file://$PROJECT_DIR$/Packages and Import/Packages and Import.iml" filepath="$PROJECT_DIR$/Packages and Import/Packages and Import.iml" />
       <module fileurl="file://$PROJECT_DIR$/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/Queue/Queue.iml" filepath="$PROJECT_DIR$/Queue/Queue.iml" />
